@@ -34,6 +34,16 @@
                 android:layout_marginTop="16dp" android:text="@string/action_sign_in"
                 android:textStyle="bold" />
 
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/text"
+                android:textStyle=""
+                android:textColor="#000"
+                android:background="#fff"
+                android:textColorHighlight="#000000"
+                android:textIsSelectable="true" />
+
         </LinearLayout>
     </ScrollView>
 
